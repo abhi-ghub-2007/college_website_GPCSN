@@ -1,1 +1,0 @@
-console.log("College Website Loaded Successfully");
